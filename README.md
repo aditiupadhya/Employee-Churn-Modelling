@@ -7,9 +7,11 @@ Link: https://employee-churn-modelling-5bt4tpfyj7bsicmoxqrrba.streamlit.app/
 
 2. App deployed in streamlit for Salary Prediction via Regression model an dvisualising via tensorboard.
    Link: https://employee-churn-modelling-bsiigrqwrwucy9fgnfxjar.streamlit.app/
-   <img width="284" alt="image" src="https://github.com/user-attachments/assets/1fccd846-0e35-4965-b661-896a4c4f0e08" />
+
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/1fccd846-0e35-4965-b661-896a4c4f0e08" />
 
 4. Determining optimal hidden layers and hidden neurons by hyperparameter tuning via Keras Classifier in ANN model.
-   <img width="390" alt="image" src="https://github.com/user-attachments/assets/ed64aceb-d455-4952-97d1-e418e8a998c1" />
+
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/ed64aceb-d455-4952-97d1-e418e8a998c1" />
 
    
